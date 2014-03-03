@@ -4,7 +4,7 @@ hoomanpy
 Extended objects and common utilities for Python.
 
 
-Installing hoomanlife
+Installing hoomanpy
 ======================
 
 python setup.py install
